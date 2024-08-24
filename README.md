@@ -45,7 +45,7 @@ go run main.go
 http://localhost:3000/facts
 ```
 
-Your **REPONSE**
+Your **RESPONSE**
 ```bash
 {
     {"_id":"66ca2e4ef7eab8d727192d4a","fact":"The cat appears to be the only domestic companion animal not mentioned in the Bible.","length":84},
