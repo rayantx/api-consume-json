@@ -25,8 +25,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rayantx/gocatapi.git
-cd gocatapi
+git clone https://github.com/rayantx/api-consume-json.git
 ```
 2. Install your MongoDB image with Docker:
 ```bash
